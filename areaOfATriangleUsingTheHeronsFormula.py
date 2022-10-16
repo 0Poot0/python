@@ -1,4 +1,4 @@
-a=float(input("Enter the length for the first ide of the triangle(A) : "))
+a=float(input("Enter the length for the first side of the triangle(A) : "))
 b=float(input("Enter the length for the second side of the triangle(B) :"))
 c=float(input("Enter the length for the third side of the triangle(C) :"))
 s= (a+b+c)/2 #s is the semi perimeter
