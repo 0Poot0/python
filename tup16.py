@@ -1,0 +1,7 @@
+num1=str(input())
+num2=str(input())
+num3=str(input())
+num4=str(input())
+num5=str(input())
+tuple1=(num1,num2,num3,num4,num5)
+print(tuple1)
